@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoussefJaafari
 - 👀 I’m interested in copilot certificates
-- 🌱 I’m currently looking to work on copilot projectd
+- 🌱 I’m currently looking to work on copilot projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jaafariyoussef@hotmail.com
 - 😄 Pronouns: ...
